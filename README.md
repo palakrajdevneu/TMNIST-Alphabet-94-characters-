@@ -37,12 +37,6 @@ Run the Jupyter notebooks provided in the repository to follow the step-by-step 
 - `models/`: Trained model files and configuration.
 - `requirements.txt`: List of packages required to run the project.
 
-## Contributions
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Kaggle for the TMNIST dataset.
 - TensorFlow and Keras libraries that enabled the model architectures.
